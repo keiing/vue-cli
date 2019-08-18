@@ -1,0 +1,19 @@
+{
+  "name": "wycli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "app": "index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "commander": "^2.20.0",
+    "inquirer": "^6.5.0"
+  }
+}
